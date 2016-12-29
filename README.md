@@ -1,6 +1,6 @@
 # ZTE macOS Driver v1.3.46
 
-Extracted from a ZTE MF667 3G modem.
+Extracted from a ZTE MF667 modem.
 
 ## ZTEUSBCDCACMData.kext
 
